@@ -1,0 +1,23 @@
+.big {
+    font-size: 48px;
+}
+.blue{
+    color: rgb(76, 72, 130);
+}
+.block{
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgb(151, 68, 151);
+}
+
+.text{
+    font-style: italic;
+    color: rgb(12, 184, 52);
+}
+
+.container{
+    width: 200px;
+    height: 200px;
+    background: rgb(190, 230, 227);
+}
+
